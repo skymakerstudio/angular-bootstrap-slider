@@ -1,5 +1,5 @@
 {
-  "name": "angular-bootstrap-slider",
+  "name": "@skymaker/angular-bootstrap-slider",
   "version": "0.1.26",
   "description": "An angular directive for seiyria-bootstrap-slider",
   "main": "slider.js",
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seiyria/angular-bootstrap-slider.git"
+    "url": "git+https://github.com/skymakerstudio/angular-bootstrap-slider.git"
   },
   "author": "Kyle Kemp <kyle@seiyria.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seiyria/angular-bootstrap-slider/issues"
+    "url": "https://github.com/skymakerstudio/angular-bootstrap-slider/issues"
   },
-  "homepage": "https://github.com/seiyria/angular-bootstrap-slider#readme"
+  "homepage": "https://github.com/skymakerstudio/angular-bootstrap-slider#readme"
 }
