@@ -1,6 +1,6 @@
 {
   "name": "@skymaker/angular-bootstrap-slider",
-  "version": "0.1.26",
+  "version": "1.0.0",
   "description": "An angular directive for seiyria-bootstrap-slider",
   "main": "slider.js",
   "devDependencies": {
