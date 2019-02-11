@@ -1,8 +1,8 @@
 (function(factory) {
     if (typeof define === 'function' && define.amd) {
-        define(['bootstrap-slider', 'angular'], factory);
+        define(['@skymaker/bootstrap-slider', 'angular'], factory);
     } else if (typeof module === 'object' && module.exports) {
-        module.exports = factory(require('bootstrap-slider'), require('angular'));
+        module.exports = factory(require('@skymaker/bootstrap-slider'), require('angular'));
     } else if (window) {
         factory(window.Slider);
     }
